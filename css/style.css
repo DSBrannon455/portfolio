@@ -60,6 +60,7 @@ img {
     max-width: 100%;
     width: 300px;
     height: 300px;
+    margin-bottom: 20px;
 }
 
 strong { font-weight: var(--fw-bold) }
